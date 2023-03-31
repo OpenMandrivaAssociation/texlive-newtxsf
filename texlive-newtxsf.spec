@@ -1,6 +1,6 @@
 Name:		texlive-newtxsf
 Version:	59227
-Release:	1
+Release:	2
 Summary:	Sans-math fonts for use with newtx
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/newtxsf
