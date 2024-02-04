@@ -1,5 +1,5 @@
 Name:		texlive-newtxsf
-Version:	67051
+Version:	69597
 Release:	1
 Summary:	Sans-math fonts for use with newtx
 Group:		Publishing
