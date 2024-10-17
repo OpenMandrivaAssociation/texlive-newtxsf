@@ -3,7 +3,7 @@ Version:	69597
 Release:	1
 Summary:	Sans-math fonts for use with newtx
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/newtxsf
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/newtxsf
 License:	ofl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/newtxsf.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/newtxsf.doc.r%{version}.tar.xz
